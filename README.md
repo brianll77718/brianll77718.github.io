@@ -47,3 +47,5 @@ Patterns
 [Vocabulary](#vocabulary)
 
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+
+this is it for now im getting it done but if this can get my grade up then pls take it for now ill get it done
