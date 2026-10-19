@@ -5,7 +5,9 @@ Hello! I am bl.
 Write a short paragraph about your interests, skills, or goals.
 
 ## Navigation
+# Engineering Notebook
 
-[Notebook](notebook.mdLinks to an external site.)
+[Notebook]([engineering-notebook.md](https://github.com/user-attachments/files/33673817/engineering-notebook.md)
+)
 
 [Home](index.md)
